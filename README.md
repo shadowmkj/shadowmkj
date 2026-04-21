@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a **computer science student** with a passion for **learning by doing**. I dove into programming on my own, driven by curiosity and a love for solving problems. Over time, I've developed a strong foundation in **full stack development**, experimenting with various technologies and frameworks along the way.
+I'm a **computer science student** with a passion for **learning by doing**. I dove into programming on my own, driven by curiosity and a love for solving problems. Over time, I've developed a strong foundation programming, experimenting with various technologies and frameworks along the way.
 
 ### 🛠️ Technologies & Tools
 
