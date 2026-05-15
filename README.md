@@ -23,3 +23,5 @@ I’ve moved my toolkit away from high-level abstractions to focus on languages 
 - Exploring more about **machine learning** and **data science**
 
 Let’s connect! Always open to learning, collaboration, and new challenges! 😊
+
+<img src="https://streak-stats.demolab.com?user=shadowmkj&theme=dark&border_radius=5" alt="GitHub Streak" />
