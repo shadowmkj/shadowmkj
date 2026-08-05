@@ -27,3 +27,5 @@ Letâ€™s connect! Always open to learning, collaboration, and new challenges! ðŸ˜
 <img src="https://github-stats-extended.vercel.app/api/pin?username=shadowmkj&repo=shadowmkj%2Fleetrs&show_owner=true&theme=github_dark" />
 
 <img src="https://github-stats-extended.vercel.app/api?username=shadowmkj&show_icons=true&include_all_commits=true&theme=github_dark" />
+
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
