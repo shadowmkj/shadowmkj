@@ -24,4 +24,6 @@ I’ve moved my toolkit away from high-level abstractions to focus on languages 
 
 Let’s connect! Always open to learning, collaboration, and new challenges! 😊
 
-<img src="https://streak-stats.demolab.com?user=shadowmkj&theme=dark&border_radius=5" alt="GitHub Streak" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=shadowmkj&repo=shadowmkj%2Fleetrs&show_owner=true&theme=github_dark" />
+
+<img src="https://github-stats-extended.vercel.app/api?username=shadowmkj&show_icons=true&include_all_commits=true&theme=github_dark" />
